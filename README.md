@@ -16,7 +16,7 @@ This workspace acts as a centralized, high-speed delivery pipeline for premium u
 
 | 📂 Target Package Name | 🛠️ Subsystem Integrity | 🛡️ Architecture Focus | 🔗 Direct Download Pipeline |
 | :---: | :---: | :---: | :---: |
-| **📦 Nagram_Premium** | ` PREMIUM UNLOCKED ` | ` arm64-v8a / v7a ` | [📥 Direct Download](https://github.com) |
+| **📦 Nagram_Premium** | ` PREMIUM UNLOCKED ` | ` arm64-v8a / v7a ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/V.12.7.3/Nagram-v12.7.3.1238-arm64-v8a.apk) |
 | **📟 MovieBox Premium** | ` BYPASS COMPLETE ` | ` Universal Build ` | [📥 Direct Download](https://github.com) |
 | **🐝 Bee WiFi Engine** | ` UTILITY ACTIVE ` | ` Android 7.0+ ` | [📥 Direct Download](https://github.com) |
 | **🏏 Cricfy Mod Suite** | ` LIVE STREAM READY ` | ` Firestick / Mobile ` | [📥 Direct Download](https://github.com) |
