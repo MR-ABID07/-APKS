@@ -21,7 +21,7 @@ This workspace acts as a centralized, high-speed delivery pipeline for premium u
 | **🐝 Bee WiFi Engine** | ` UTILITY ACTIVE ` | ` Android 7.0+ ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/0.1/Bee.WIFI.apk) |
 | **🏏 Cricfy Mod Suite** | ` LIVE STREAM READY ` | ` Firestick / Mobile ` | [📥 Direct Download](https://github.com) |
 | **🎵 SimpMusic Core** | ` AUDIO UNBOUND ` | ` Clean Source ` | [📥 Direct Download](https://github.com) |
-| **🪙 Honeygain App Module** | ` PASSIVE NETWORK ` | ` Background Opt ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.1/honeygain_app.apk) |
+| **🍯 Honeygain App** | ` PASSIVE INCOME ` | ` Background Opt ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.1/honeygain_app.apk) |
 
 ---
 
