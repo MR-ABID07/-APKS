@@ -17,7 +17,7 @@ This workspace acts as a centralized, high-speed delivery pipeline for premium u
 | 📂 Target Package Name | 🛠️ Subsystem Integrity | 🛡️ Architecture Focus | 🔗 Direct Download Pipeline |
 | :---: | :---: | :---: | :---: |
 | **📦 Nagram_Premium** | ` PREMIUM UNLOCKED ` | ` arm64-v8a / v7a ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/V.12.7.3/Nagram-v12.7.3.1238-arm64-v8a.apk) |
-| **📟 MovieBox Premium** | ` BYPASS COMPLETE ` | ` Universal Build ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.7/MovieBox_3.0.12.0205.03_fullyPremium_familyMod0n.apk) |
+| **📟 MovieBox Premium** | ` BYPASS COMPLETE ` | ` Universal Build ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/V2.4/MovieBox.Mobile.21.Oktober.SFILE.MOBI.apk) |
 | **🐝 Bee WiFi Engine** | ` UTILITY ACTIVE ` | ` Android 7.0+ ` | [📥 Direct Download](https://github.com/MR-ABID07/-APKS/releases/download/0.1/Bee.WIFI.apk) |
 | **🏏 Cricfy Mod Suite** | ` LIVE STREAM READY ` | ` Firestick / Mobile ` | [📥 Direct Download](https://github.com) |
 | **🎵 SimpMusic Core** | ` AUDIO UNBOUND ` | ` Clean Source ` | [📥 Direct Download](https://github.com) |
