@@ -23,6 +23,7 @@
 | **🐝 Bee WiFi Engine** | `AVAILABLE` | `Android 7.0+` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/0.1/Bee.WIFI.apk) |
 | **🎵 SimpMusic Core** | `AVAILABLE` | `Clean Source` | [📥 Download](https://github.com) |
 | **🍯 Honeygain App** | `AVAILABLE` | `Background Support` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.1/honeygain_app.apk) |
+| **📟 Movie_Box NEW** | `AVAILABLE` | `Universal` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.7/moviebox-premium_v4.0.03.0930.03-an1.ca.apk) |
 
 ---
 
