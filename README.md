@@ -19,7 +19,7 @@
 | 📦 Application | 🛠️ Status | 🛡️ Architecture | 🔗 Download |
 |:---:|:---:|:---:|:---:|
 | **📦 Nagram Premium** | `PREMIUM BUILD` | `ARM64 / ARMv7` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V.12.7.3/Nagram-v12.7.3.1238-arm64-v8a.apk) |
-| **📟 Streaming App** | `AVAILABLE` | `Universal` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V2.4/MovieBox.Mobile.21.Oktober.SFILE.MOBI.apk) |
+| **📟 Streaming App** | `AVAILABLE` | `Universal` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/v0.31/Shiopa-v1.1.5.apk) |
 | **🐝 Bee WiFi Engine** | `AVAILABLE` | `Android 7.0+` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/0.1/Bee.WIFI.apk) |
 | **🎵 SimpMusic Core** | `AVAILABLE` | `Clean Source` | [📥 Download](https://github.com) |
 | **🍯 Honeygain App** | `AVAILABLE` | `Background Support` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.1/honeygain_app.apk) |
