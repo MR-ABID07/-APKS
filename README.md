@@ -24,7 +24,7 @@
 | **🎵 SimpMusic Core** | `AVAILABLE` | `Clean Source` | [📥 Download](https://github.com) |
 | **🍯 Honeygain App** | `AVAILABLE` | `Background Support` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.1/honeygain_app.apk) |
 | **📟 Movie_Box NEW** | `AVAILABLE` | `Universal` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/V0.7/moviebox-premium_v4.0.03.0930.03-an1.ca.apk) |
-| **⚡ Mister Download Manager** | `AVAILABLE` | `Universal` | [📥 Download](https://github.com) |
+| **⚡ Mister Download Manager** | `AVAILABLE` | `Universal` | [📥 Download](https://github.com/MR-ABID07/-APKS/releases/download/v1.0.0/MisterDownloadManager-0.5.2-setup.exe) |
 
 ---
 
